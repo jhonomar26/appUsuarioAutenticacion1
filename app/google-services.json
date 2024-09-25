@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613878294611",
+    "project_id": "my-firebase-app-4512c",
+    "storage_bucket": "my-firebase-app-4512c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613878294611:android:bfddae81764c0f9ef57ea6",
+        "android_client_info": {
+          "package_name": "com.udenar.myfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_91POa2zPr9FYfh4nBrI5X1fu8bFWoPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
